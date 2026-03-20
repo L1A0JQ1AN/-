@@ -11,3 +11,8 @@
 - 操作系统：Ubuntu Linux
 - Python 版本：3.12.3
 - 依赖库：opencv-python、numpy、matplotlib
+## 基本信息
+- 图像尺寸（宽×高）: 2560 × 1440
+- 图像通道数: 3
+- 图像数据类型: uint8
+- 像素 (1000, 100) 的 BGR 值: [61 39 51]
